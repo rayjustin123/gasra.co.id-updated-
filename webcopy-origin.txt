@@ -1,0 +1,1547 @@
+Uri: http://dummy.xtemos.com/woodmart/demos/wp-content/uploads/sites/2/2017/06/wood-main-bg.jpg?id=44
+File Name: C:\Downloaded Web Sites\gasra.co.id\woodmart\demos\wp-content\uploads\sites\2\2017\06\wood-main-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Titillium+Web:400%2C600%2C200|Poppins:400%2C600|Lato:400%2C700&ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\lato\v24\S6uyw4BMUTPHjx4wWw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+File Name: C:\Downloaded Web Sites\gasra.co.id\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA-1.ttf
+Content Type: font/ttf
+
+Uri: https://gasra.co.id/
+File Name: C:\Downloaded Web Sites\gasra.co.id\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/comments/feed/
+File Name: C:\Downloaded Web Sites\gasra.co.id\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://gasra.co.id/feed/
+File Name: C:\Downloaded Web Sites\gasra.co.id\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://gasra.co.id/kontak/
+File Name: C:\Downloaded Web Sites\gasra.co.id\kontak\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/pelayanan/
+File Name: C:\Downloaded Web Sites\gasra.co.id\pelayanan\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/gasra-biogas/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-biogas\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/gasra-industri/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-industri\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/gasra-lng/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-lng\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/gasra-ngv/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-ngv\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/gasra-retail/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-retail\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/gasra-services/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-services\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/gasra-solar-panel/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-solar-panel\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/produk/gasra-transport/
+File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-transport\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/teknologi/
+File Name: C:\Downloaded Web Sites\gasra.co.id\teknologi\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/teknologi/industri/
+File Name: C:\Downloaded Web Sites\gasra.co.id\teknologi\industri\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/teknologi/kendaraan/
+File Name: C:\Downloaded Web Sites\gasra.co.id\teknologi\kendaraan\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/tentang-kami/
+File Name: C:\Downloaded Web Sites\gasra.co.id\tentang-kami\index-1.htm
+Content Type: text/html
+
+Uri: https://gasra.co.id/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=5.0.17
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\creame-whatsapp-me\public\css\joinchat.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.0.17
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\creame-whatsapp-me\public\js\joinchat.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=2.6.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\jeg-elementor-kit\assets\css\elements\main.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/jeg-elementor-kit/assets/img/letter-x.svg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\jeg-elementor-kit\assets\img\letter-x.svg
+Content Type: image/svg+xml
+
+Uri: https://gasra.co.id/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=2.6.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\jeg-elementor-kit\assets\js\elements\sticky-element.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/jeg-elementor-kit/lib/jeg-framework/assets/css/jeg-dynamic-styles.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\jeg-elementor-kit\lib\jeg-framework\assets\css\jeg-dynamic-styles.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/css/js_composer.min.css?ver=6.10.0
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\css\js_composer.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_grid\vc_grid_v1-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_grid\vc_grid_v1-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_grid\vc_grid_v1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_grid\vc_grid_v1-1.ttf
+Content Type: font/ttf
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_grid\vc_grid_v1-1.woff
+Content Type: font/woff
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons-1.ttf
+Content Type: font/ttf
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons-1.woff
+Content Type: font/woff
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\flickr-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\address-book-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\alarm-clock-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\anchor-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\application-image-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\arrow-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\asterisk-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\auction-hammer-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\balloon-buzz-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\balloon-facebook-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\balloon-twitter-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\balloon-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\battery-full-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\binocular-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\blue-document-excel-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\blue-document-image-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\blue-document-music-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\blue-document-office-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\blue-document-pdf-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\blue-document-powerpoint-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\blue-document-word-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\bookmark-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\camcorder-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\camera-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\chart-pie-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\chart-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\clock-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\control-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\fire-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\heart-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\mail-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\plus-shield-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\icons\video-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\spinner-1.gif
+Content Type: image/gif
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\toggle_close-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\images\toggle_open-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/js/dist/js_composer_front.min.js?ver=6.10.0
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\js\dist\js_composer_front.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/bower/animate-css/animate.min.css?ver=6.10.0
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\bower\animate-css\animate.min.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=6.10.0
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\css\prettyPhoto.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnNext-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnPrevious-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\contentPattern-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\loader-1.gif
+Content Type: image/gif
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\sprite-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnNext-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnPrevious-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_square\loader-1.gif
+Content Type: image/gif
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\dark_square\sprite-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\default\default_thumb-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/default/loader.gif
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\default\loader-1.gif
+Content Type: image/gif
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/default/sprite.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\default\sprite-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_next-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_prev-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_x-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_y-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnNext-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnPrevious-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternBottom-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternLeft-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternRight-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternTop-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\default_thumbnail-1.gif
+Content Type: image/gif
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\loader-1.gif
+Content Type: image/gif
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\facebook\sprite-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnNext-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnPrevious-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\loader-1.gif
+Content Type: image/gif
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\sprite-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnNext-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnPrevious-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\images\prettyPhoto\light_square\sprite-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=6.10.0
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\prettyphoto\js\jquery.prettyPhoto.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.10.0
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\lib\vc_waypoints\vc-waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\vc\alert-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\vc\blur-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\vc\exclamation-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\vc\info-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\vc\remove-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/js_composerv2/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\js_composerv2\assets\vc\tick-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style.css?ver=1.6.10
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\sticky-header-effects-for-elementor\assets\css\she-header-style.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header.js?ver=1.6.10
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\plugins\sticky-header-effects-for-elementor\assets\js\she-header.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/bootstrap-light.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\bootstrap-light.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/base-deprecated.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\base-deprecated.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/base.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\base.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/el-info-box.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\el-info-box.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/el-responsive-text.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\el-responsive-text.min.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/el-section-title.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\el-section-title.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/el-social-icons.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\el-social-icons.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/el-timeline.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\el-timeline.min.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/footer-base.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\footer-base.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/header-base.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\header-base.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/header-el-base.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\header-el-base.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/header-el-search-fullscreen-1.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\header-el-search-fullscreen-1.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/header-el-search-fullscreen-general.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\header-el-search-fullscreen-general.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/header-el-search.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\header-el-search.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/int-wbp-el-animations.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\int-wbp-el-animations.min.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/int-wpb-base-deprecated.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\int-wpb-base-deprecated.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/int-wpb-base.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\int-wpb-base.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/lib-owl-carousel.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\lib-owl-carousel.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/mod-highlighted-text.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\mod-highlighted-text.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/mod-tools.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\mod-tools.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/opt-scrolltotop.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\opt-scrolltotop.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/wd-search-form.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\wd-search-form.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/woo-opt-sticky-notices.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\woo-opt-sticky-notices.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/css/parts/wp-gutenberg.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\css\parts\wp-gutenberg.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/fonts/woodmart-font.woff2?v=
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\fonts\woodmart-font-1.woff2
+Content Type: font/woff2
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/inc/admin/assets/images/calend-d.svg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\inc\admin\assets\images\calend-d-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/inc/admin/assets/images/calend-l.svg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\inc\admin\assets\images\calend-l-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/libs/cookie.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\libs\cookie.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/libs/device.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\libs\device.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/libs/owl.carousel.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\libs\owl.carousel.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/libs/parallax.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\libs\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/global/helpers.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\global\helpers.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/global/owlCarouselInit.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\global\owlCarouselInit.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/global/parallax.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\global\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/global/scrollBar.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\global\scrollBar.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/global/scrollTop.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\global\scrollTop.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/global/searchFullScreen.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\global\searchFullScreen.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/header/headerBuilder.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\header\headerBuilder.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/menu/menuOffsets.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\menu\menuOffsets.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/menu/menuSetUp.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\menu\menuSetUp.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/menu/mobileNavigation.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\menu\mobileNavigation.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/themes/gasra/js/scripts/wc/woocommerceNotices.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\themes\gasra\js\scripts\wc\woocommerceNotices.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/07/cng-service-244x300.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\07\cng-service-244x300.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/07/cng-service.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\07\cng-service.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/07/cup-200x200.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\07\cup-200x200-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/07/icon-safety.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\07\icon-safety.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/07/icon-services.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\07\icon-services.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/07/icon-tech.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\07\icon-tech.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-slider-gallery-6-300x225.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-slider-gallery-6-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-slider-gallery-6-600x450.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-slider-gallery-6-600x450.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-slider-gallery-6-768x576.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-slider-gallery-6-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-slider-gallery-6.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-slider-gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-1-1024x434.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-1-1024x434-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-1-1536x650.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-1-1536x650-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-1-2048x867.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-1-2048x867-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-1-300x127.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-1-300x127-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-1-600x254.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-1-600x254-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-1-768x325.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-1-768x325-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-1-scaled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-2-1024x434.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-2-1024x434-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-2-1536x650.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-2-1536x650-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-2-2048x867.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-2-2048x867-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-2-300x127.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-2-300x127-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-2-600x254.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-2-600x254-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-2-768x325.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-2-768x325-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-2-scaled.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-2-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-3-1024x434.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-3-1024x434-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-3-1536x650.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-3-1536x650-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-3-2048x867.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-3-2048x867-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-3-300x127.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-3-300x127-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-3-600x254.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-3-600x254-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-3-768x325.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-3-768x325-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-3-scaled.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-3-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-4-1024x434.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-4-1024x434-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-4-1536x650.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-4-1536x650-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-4-2048x867.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-4-2048x867-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-4-300x127.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-4-300x127-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-4-600x254.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-4-600x254-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-4-768x325.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-4-768x325-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/cng-vehicle-slide-4-scaled.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\cng-vehicle-slide-4-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/DSC_5240-1024x680.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\DSC_5240-1024x680.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/DSC_5240-1536x1020.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\DSC_5240-1536x1020.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/DSC_5240-2048x1360.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\DSC_5240-2048x1360.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/DSC_5240-300x199.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\DSC_5240-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/DSC_5240-600x399.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\DSC_5240-600x399.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/DSC_5240-768x510.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\DSC_5240-768x510.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/DSC_5240-scaled.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\DSC_5240-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/ico-chr-100x100.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\ico-chr-100x100.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/ico-chr.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\ico-chr.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/ico-cne-100x100.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\ico-cne-100x100.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/ico-cne.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\ico-cne.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/ico-cng-100x100.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\ico-cng-100x100.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/ico-cng.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\ico-cng.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/ico-cngblue-100x100.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\ico-cngblue-100x100.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/ico-cngblue.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\ico-cngblue.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/technology-300x145.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\technology-300x145.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/technology-600x290.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\technology-600x290.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/technology-768x371.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\technology-768x371.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2020/08/technology.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2020\08\technology.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/cropped-Gasra-Logo-180x180.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\cropped-Gasra-Logo-180x180-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/cropped-Gasra-Logo-192x192.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\cropped-Gasra-Logo-192x192-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/cropped-Gasra-Logo-32x32.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\cropped-Gasra-Logo-32x32-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Logo.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2003-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2003-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2003.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2003.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2005-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2005-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2005.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2005.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2006-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2006-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2006.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2006.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2007-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2007-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2007.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2007.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2008-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2008-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2008.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2008.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2009-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2009-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2009.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2009.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2010-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2010-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2010.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2010.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2011-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2011-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2011.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2011.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2012-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2012-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2012.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2012.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2013-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2013-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2013.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2013.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2014-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2014-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2014.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2014.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2016-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2016-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2016.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2016.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2020-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2020-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2020.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2020.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2021-300x198.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2021-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2022/11/Gasra-Milestone-2021.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2022\11\Gasra-Milestone-2021.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Bio-Gas-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Bio-Gas-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Bio-Gas.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Bio-Gas.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Compressed-Natural-Gas-CNG-Indonesia.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Compressed-Natural-Gas-CNG-Indonesia-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-First-1-188x75.png
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-First-1-188x75-1.png
+Content Type: image/png
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Industri-217x100.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Industri-217x100.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Industri-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Industri-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Industri.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Industri.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-LNG-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-LNG-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-LNG.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-LNG.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-NGV-217x100.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-NGV-217x100.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-NGV-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-NGV-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-NGV.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-NGV.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Retail-217x100.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Retail-217x100.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Retail-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Retail-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Retail.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Retail.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Services-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Services-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Services.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Services.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Solar-Panel-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Solar-Panel-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Solar-Panel.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Solar-Panel.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Transport-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Transport-300x138.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Transport.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Transport.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/03/Compressed-Natural-Gas-GASRA-300x145.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\Compressed-Natural-Gas-GASRA-300x145.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/03/Compressed-Natural-Gas-GASRA.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\Compressed-Natural-Gas-GASRA.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/03/GASRA-Industri-Fleet-Support-300x145.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\GASRA-Industri-Fleet-Support-300x145.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/03/GASRA-Industri-Fleet-Support.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\GASRA-Industri-Fleet-Support.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/03/xts-theme_settings_default-1679669006.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\xts-theme_settings_default-1679669006-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/04/xts-header_626445-1680789214.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\04\xts-header_626445-1680789214-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/05/GASRA-NVG-300x171.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\05\GASRA-NVG-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/05/GASRA-NVG-768x438.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\05\GASRA-NVG-768x438.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/05/GASRA-NVG.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\05\GASRA-NVG.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/05/Gasra-Retail-300x171.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\05\Gasra-Retail-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/05/Gasra-Retail-768x438.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\05\Gasra-Retail-768x438.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/2023/05/Gasra-Retail.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\05\Gasra-Retail.jpg
+Content Type: image/jpeg
+
+Uri: https://gasra.co.id/wp-content/uploads/elementor/css/global.css?ver=1709391089
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-content/uploads/elementor/css/post-3980.css?ver=1709391088
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\elementor\css\post-3980.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://gasra.co.id/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-includes\js\imagesloaded.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://gasra.co.id/wp-json/
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fkontak%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fkontak%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fpelayanan%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fpelayanan%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-biogas%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-biogas%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-industri%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-industri%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-lng%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-lng%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-ngv%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-ngv%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-retail%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-retail%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-services%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-services%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-solar-panel%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-solar-panel%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-transport%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-transport%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2Findustri%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2Findustri%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2Fkendaraan%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2Fkendaraan%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Ftentang-kami%2F
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Ftentang-kami%2F&format=xml
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3666
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3666-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3670
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3670-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3674
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3674-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3679
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3679-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3681
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3681-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3683
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3683-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3688
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3688-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3740
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3740-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3743
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3743-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3747
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3747-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3750
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3750-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3754
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3754-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3816
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3816-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3820
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3820-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3824
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3824-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/wp-json/wp/v2/pages/3853
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\wp\v2\pages\3853-1
+Content Type: application/json
+
+Uri: https://gasra.co.id/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\gasra.co.id\xmlrpc-1.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-K0SSNVEYCV
+File Name: C:\Downloaded Web Sites\gasra.co.id\gtag\js-2
+Content Type: application/javascript
+
+gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-248526756-1
+File Name: C:\Downloaded Web Sites\gasra.co.id\gtag\js
+Content Type: application/javascript
+
