@@ -134,60 +134,60 @@ Uri: https://gasra.co.id/feed/
 File Name: C:\Downloaded Web Sites\gasra.co.id\feed\index-1.htm
 Content Type: application/rss+xml
 
-Uri: https://gasra.co.id/kontak/
-File Name: C:\Downloaded Web Sites\gasra.co.id\kontak\index-1.htm
+Uri: https://gasra.co.id/contact/
+File Name: C:\Downloaded Web Sites\gasra.co.id\contact\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/pelayanan/
-File Name: C:\Downloaded Web Sites\gasra.co.id\pelayanan\index-1.htm
+Uri: https://gasra.co.id/service/
+File Name: C:\Downloaded Web Sites\gasra.co.id\service\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\index-1.htm
+Uri: https://gasra.co.id/product/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/gasra-biogas/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-biogas\index-1.htm
+Uri: https://gasra.co.id/product/gasra-biogas/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\gasra-biogas\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/gasra-industri/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-industri\index-1.htm
+Uri: https://gasra.co.id/product/GASRA Industry/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\GASRA Industry\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/gasra-lng/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-lng\index-1.htm
+Uri: https://gasra.co.id/product/gasra-lng/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\gasra-lng\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/gasra-ngv/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-ngv\index-1.htm
+Uri: https://gasra.co.id/product/gasra-ngv/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\gasra-ngv\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/gasra-retail/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-retail\index-1.htm
+Uri: https://gasra.co.id/product/gasra-retail/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\gasra-retail\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/gasra-services/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-services\index-1.htm
+Uri: https://gasra.co.id/product/gasra-services/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\gasra-services\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/gasra-solar-panel/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-solar-panel\index-1.htm
+Uri: https://gasra.co.id/product/gasra-solar-panel/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\gasra-solar-panel\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/produk/gasra-transport/
-File Name: C:\Downloaded Web Sites\gasra.co.id\produk\gasra-transport\index-1.htm
+Uri: https://gasra.co.id/product/gasra-transport/
+File Name: C:\Downloaded Web Sites\gasra.co.id\product\gasra-transport\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/teknologi/
-File Name: C:\Downloaded Web Sites\gasra.co.id\teknologi\index-1.htm
+Uri: https://gasra.co.id/technology/
+File Name: C:\Downloaded Web Sites\gasra.co.id\technology\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/teknologi/industri/
-File Name: C:\Downloaded Web Sites\gasra.co.id\teknologi\industri\index-1.htm
+Uri: https://gasra.co.id/technology/industry/
+File Name: C:\Downloaded Web Sites\gasra.co.id\technology\industry\index-1.htm
 Content Type: text/html
 
-Uri: https://gasra.co.id/teknologi/kendaraan/
-File Name: C:\Downloaded Web Sites\gasra.co.id\teknologi\kendaraan\index-1.htm
+Uri: https://gasra.co.id/technology/vehicle/
+File Name: C:\Downloaded Web Sites\gasra.co.id\technology\vehicle\index-1.htm
 Content Type: text/html
 
 Uri: https://gasra.co.id/tentang-kami/
@@ -1191,11 +1191,11 @@ File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-
 Content Type: image/png
 
 Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Industri-217x100.jpg
-File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Industri-217x100.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA Industry-217x100.jpg
 Content Type: image/jpeg
 
 Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Industri-300x138.jpg
-File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Industri-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA Industry-300x138.jpg
 Content Type: image/jpeg
 
 Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Industri.jpg
@@ -1234,12 +1234,12 @@ Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Retail.jpg
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Retail.jpg
 Content Type: image/jpeg
 
-Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Services-300x138.jpg
-File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Services-300x138.jpg
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-services-300x138.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-services-300x138.jpg
 Content Type: image/jpeg
 
-Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Services.jpg
-File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-Services.jpg
+Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-services.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\01\GASRA-services.jpg
 Content Type: image/jpeg
 
 Uri: https://gasra.co.id/wp-content/uploads/2023/01/GASRA-Solar-Panel-300x138.jpg
@@ -1266,12 +1266,12 @@ Uri: https://gasra.co.id/wp-content/uploads/2023/03/Compressed-Natural-Gas-GASRA
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\Compressed-Natural-Gas-GASRA.jpg
 Content Type: image/jpeg
 
-Uri: https://gasra.co.id/wp-content/uploads/2023/03/GASRA-Industri-Fleet-Support-300x145.jpg
-File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\GASRA-Industri-Fleet-Support-300x145.jpg
+Uri: https://gasra.co.id/wp-content/uploads/2023/03/GASRA Industry-Fleet-Support-300x145.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\GASRA Industry-Fleet-Support-300x145.jpg
 Content Type: image/jpeg
 
-Uri: https://gasra.co.id/wp-content/uploads/2023/03/GASRA-Industri-Fleet-Support.jpg
-File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\GASRA-Industri-Fleet-Support.jpg
+Uri: https://gasra.co.id/wp-content/uploads/2023/03/GASRA Industry-Fleet-Support.jpg
+File Name: C:\Downloaded Web Sites\gasra.co.id\wp-content\uploads\2023\03\GASRA Industry-Fleet-Support.jpg
 Content Type: image/jpeg
 
 Uri: https://gasra.co.id/wp-content/uploads/2023/03/xts-theme_settings_default-1679669006.css?ver=6.4.3
@@ -1346,115 +1346,115 @@ Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-33
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fkontak%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fcontact%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-62
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fkontak%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fcontact%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-63
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fpelayanan%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fservice%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-54
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fpelayanan%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fservice%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-55
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-36
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-37
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-biogas%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-biogas%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-50
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-biogas%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-biogas%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-51
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-industri%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2FGASRA Industry%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-38
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-industri%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2FGASRA Industry%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-39
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-lng%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-lng%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-42
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-lng%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-lng%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-43
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-ngv%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-ngv%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-44
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-ngv%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-ngv%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-45
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-retail%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-retail%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-40
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-retail%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-retail%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-41
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-services%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-services%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-48
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-services%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-services%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-49
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-solar-panel%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-solar-panel%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-52
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-solar-panel%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-solar-panel%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-53
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-transport%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-transport%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-46
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduk%2Fgasra-transport%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fproduct%2Fgasra-transport%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-47
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Ftechnology%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-56
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Ftechnology%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-57
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2Findustri%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Ftechnology%2Findustry%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-58
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2Findustri%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Ftechnology%2Findustry%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-59
 Content Type: text/xml
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2Fkendaraan%2F
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Ftechnology%2Fvehicle%2F
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-60
 Content Type: application/json
 
-Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Fteknologi%2Fkendaraan%2F&format=xml
+Uri: https://gasra.co.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fgasra.co.id%2Ftechnology%2Fvehicle%2F&format=xml
 File Name: C:\Downloaded Web Sites\gasra.co.id\wp-json\oembed\1.0\embed-61
 Content Type: text/xml
 
